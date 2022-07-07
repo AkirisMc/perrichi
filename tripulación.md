@@ -7,3 +7,5 @@
 * Franky
 * Nami
 * Robbin
+* Jinbe
+
